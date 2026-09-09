@@ -1,21 +1,12 @@
 {
   "family": [
-    "images/family/mtuazezy-updl-uuid-80a9c216-f865-4018-9ec7-e991f5199e3.jpg"
+    "images/family/mtuax6t4-58ex-uuid-80a9c216-f865-4018-9ec7-e991f5199e3.jpg"
   ],
   "engagement": [
-    "images/engagement/mtuaztcm-0s82-uuid-cac53d7c-d8e2-497e-bd86-9e8ee698eca.jpg",
-    "images/engagement/mtub00mq-pdv9-uuid-4db48893-6e42-4589-83a0-d931552c03f.jpg"
+    "images/engagement/mtub2tp0-cm16-uuid-cac53d7c-d8e2-497e-bd86-9e8ee698eca.jpg"
   ],
-  "street": [
-    "images/street/mtub09w5-1fr4-uuid-4241acd7-acd3-4ffd-ad6e-24ea329ff66.jpg"
-  ],
-  "maternity": [
-    "images/maternity/mtub0otk-7vqe-uuid-6ad7372d-4f97-4062-807c-4e084c4c8e4.jpg"
-  ],
-  "editorial": [
-    "images/editorial/mtub10t8-dxam-uuid-8615c69b-8433-4a1d-aca1-83a5b87fa07.jpg"
-  ],
-  "graduation": [
-    "images/graduation/mtub18t6-4dvv-uuid-50008ca7-f5b1-4c20-9510-a6aa2f963f6.jpg"
-  ]
+  "street": [],
+  "maternity": [],
+  "editorial": [],
+  "graduation": []
 }
