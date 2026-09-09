@@ -1,7 +1,4 @@
 
-/
-Claude Desktop (macOS), Connected
-
 
 
 
