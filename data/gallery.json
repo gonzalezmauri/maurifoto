@@ -6,7 +6,9 @@
     "images/engagement/mtuaztcm-0s82-uuid-cac53d7c-d8e2-497e-bd86-9e8ee698eca.jpg",
     "images/engagement/mtub00mq-pdv9-uuid-4db48893-6e42-4589-83a0-d931552c03f.jpg"
   ],
-  "street": [],
+  "street": [
+    "images/street/mtub09w5-1fr4-uuid-4241acd7-acd3-4ffd-ad6e-24ea329ff66.jpg"
+  ],
   "maternity": [],
   "editorial": [],
   "graduation": []
